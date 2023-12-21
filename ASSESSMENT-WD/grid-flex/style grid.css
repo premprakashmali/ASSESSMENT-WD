@@ -1,0 +1,1690 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+::selection {
+
+    background-color: rgb(255, 200, 0);
+}
+
+
+
+.card-0 {
+
+    background-color: rgb(14, 22, 51);
+    height: 30px;
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-between;
+}
+
+.read-1 p {
+
+    color: white;
+    font-family: sans-serif;
+    font-weight: 400;
+    padding: 7px;
+    margin-left: 50px;
+}
+
+.read-2 {
+    margin-right: 10px;
+    padding: 7px;
+}
+.read-2 i{
+
+    color: white;
+}
+
+span {
+
+    color: orange;
+}
+
+
+
+.card-1 video {
+
+    width: 100%;
+    position: absolute;
+}
+
+.main-1 {
+
+    background-color: rgba(137, 117, 117, 0.612);
+    width: 94.7%;
+}
+
+.main-1 {
+
+    position: absolute;
+}
+
+.main-2 {
+
+    font-size: 28px;
+    font-weight: 600;
+    color: white;
+    font-family: sans-serif;
+
+}
+
+
+
+a {
+
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 15px;
+    margin-right: 30px;
+    font-weight: 530;
+    font-family: sans-serif;
+
+}
+
+
+
+a:hover {
+
+    color: rgb(220, 93, 15);
+    font-weight: 600;
+}
+
+.main-1 {
+    text-align: center;
+    padding: 40px;
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-between;
+
+}
+
+.navbar {
+
+    display: flex;
+}
+
+.show-1:hover .hide-1 {
+    display: grid;
+    grid-template-columns: auto;
+    background-color: white;
+    width: 190px;
+    color: black;
+    position: absolute;
+    margin-top: 0px;
+    padding: 10px;
+    text-align: start;
+    transition: 0.1s;
+}
+
+.hide-1 {
+    display: none;
+    
+}
+
+.hide-1 a {
+
+    color: black;
+}
+
+.main-2 a {
+
+    margin-top: 30px;
+}
+
+
+.main-2 a:hover {
+    color: white;
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: none;
+}
+
+
+
+.main-3 {
+
+    position: absolute;
+    top: 200px;
+    left: 50px;
+}
+
+.main-3 h3 {
+
+    color: white;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.main-3 h1 {
+
+    color: white;
+    font-family: sans-serif;
+    font-weight: 800;
+}
+
+.one-1 {
+
+    margin-top: 130px;
+}
+
+.one-2 {
+
+    margin-top: 20px;
+}
+
+.one-3 {
+
+    margin-top: 20px;
+}
+
+.one-3 p {
+
+    color: white;
+    font-family: sans-serif;
+    font-weight: 500;
+}
+
+.one-3 span {
+    color: rgb(72, 194, 255);
+}
+
+.one-4 {
+
+    margin-top: 30px;
+}
+
+.one-4 button {
+
+    height: 45px;
+    width: 150px;
+    text-align: center;
+    border-radius: 30px;
+    border: none;
+    background-color: rgb(148, 17, 17);
+    color: white;
+
+}
+
+.one-5 img {
+    margin-left: 10px;
+    border-radius: 20px;
+    position: relative;
+    top: 700px;
+
+}
+
+
+.main-6 {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    margin-left: -5px;
+
+}
+
+.one-6 img {
+    position: relative;
+    top: 440px;
+    left: 190px;
+}
+
+.one-6 h1 {
+    position: relative;
+    top: 460px;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.one-6 p {
+    position: relative;
+    top: 480px;
+    color: white;
+    text-align: center;
+}
+
+.icon-1 {
+
+    position: relative;
+    top: 810px;
+    left: 5px;
+    background-color: white;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+
+}
+
+.icon-1 img{
+
+    margin-left: -2px;
+    margin-top: 6px;
+    height: 40px;
+}
+
+.icon-2 {
+    position: relative;
+    top: 810px;
+    left: 4px;
+    background-color: white;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+
+.icon-2 img {
+
+    margin-left: 20px;
+    margin-top: 7px;
+    height: 40px;
+}
+
+.one-7 {
+
+    color: white;
+    position: relative;
+    top: 640px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 13px;
+}
+
+.card-2 {
+
+    margin-top: -331px;
+    background: url(img/meetings-bg.jpg) center/cover fixed;
+    height: 190vh;
+}
+
+.main-7 {
+    display: grid;
+    grid-template-columns: auto auto auto ;
+}
+
+.page-1 {
+
+    background-color: white;
+    height: 450px;
+    width: 380px;
+    margin-top: 360px;
+    border-radius: 20px;
+
+}
+
+.page-1 h3 {
+
+    margin-top: 20px;
+    font-family: sans-serif;
+    font-size: 15x;
+    margin-left: 40px;
+}
+
+.page-1 h1 {
+
+    margin-top: 20px;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-left: 40px;
+}
+
+.page-1 {
+
+    text-align: center;
+    text-align: justify;
+    margin-left: 50px;
+}
+
+.page-1 button {
+
+    margin-top: 40px;
+    margin-left: 40px;
+    border-radius: 30px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    background-color: rgb(154, 24, 24);
+    border: none;
+    height: 45px;
+    width: 290px;
+}
+
+.page-2 {
+
+    background-color: white;
+    height: 410px;
+    width: 440px;
+    margin-top: 360px;
+    margin-left: 50px;
+    border-radius: 30px;
+
+}
+
+.page-2 h3 {
+
+    margin-left: 30px;
+    margin-top: 20px;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.page-2 span {
+
+    color: red;
+    font-size: 15px;
+
+}
+
+.p-child h2 {
+
+    margin-left: 80px;
+    margin-top: -55px;
+    font-family: sans-serif;
+    font-size: 20px;
+
+}
+
+.p-child p {
+
+    text-align: center;
+    margin-top: 20px;
+    margin-left: -82px;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.page-4 {
+
+    background-color: white;
+    height: 410px;
+    width: 440px;
+    margin-top: -20px;
+    margin-left: 510px;
+    border-radius: 30px;
+}
+
+.page-4 h3 {
+
+    margin-left: 30px;
+    margin-top: 20px;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.page-4 span {
+
+    color: red;
+    font-size: 15px;
+
+}
+
+.p-child h2 {
+
+    margin-left: 80px;
+    margin-top: -55px;
+    font-family: sans-serif;
+    font-size: 20px;
+
+}
+
+.p-child p {
+
+    text-align: center;
+    margin-top: 20px;
+    margin-left: -82px;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.page-3 {
+
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.page-6 {
+
+    background-color: white;
+    height: 410px;
+    width: 440px;
+    margin-top: -20px;
+    margin-left: 50px;
+    border-radius: 30px;
+}
+
+.page-6 h3 {
+
+    margin-left: 30px;
+    margin-top: 20px;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.page-6 span {
+
+    color: red;
+    font-size: 15px;
+
+}
+
+.p-child h2 {
+
+    margin-left: 80px;
+    margin-top: -55px;
+    font-family: sans-serif;
+    font-size: 20px;
+
+}
+
+.p-child p {
+
+    text-align: center;
+    margin-top: 20px;
+    margin-left: -82px;
+    font-family: sans-serif;
+    font-size: 16px;
+
+}
+
+.card-3 {
+
+    background: url(img/apply-bg.jpg) center/cover fixed;
+    height: 120vh;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.tr-1 {
+
+    background-color: rgba(128, 128, 128, 0.415);
+    margin-top: 80px;
+    margin-left: 100px;
+    height: 280px;
+    width: 600px;
+}
+
+.tr-1 h1 {
+
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 50px;
+    margin-left: -50px;
+    font-weight: 700;
+}
+
+.tr-1 p {
+
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 30px;
+    margin-left: 70px;
+    text-align: justify;
+}
+
+.tr-1 button {
+
+    background-color: rgb(154, 24, 24);
+    color: white;
+    height: 44px;
+    width: 160px;
+    margin-top: 30px;
+    margin-left: 70px;
+    border-radius: 30px;
+    border: none;
+
+}
+
+.tr-2 {
+
+    background-color: rgba(128, 128, 128, 0.415);
+    margin-left: 100px;
+    margin-top: 50px;
+    height: 280px;
+    width: 600px;
+}
+
+.tr-2 h1 {
+
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 50px;
+    margin-left: -50px;
+    font-weight: 700;
+}
+
+.tr-2 p {
+
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 30px;
+    margin-left: 70px;
+    text-align: justify;
+}
+
+.tr-2 button {
+
+    background-color: rgb(234, 182, 13);
+    color: white;
+    height: 44px;
+    width: 160px;
+    margin-top: 30px;
+    margin-left: 70px;
+    border-radius: 30px;
+    border: none;
+
+}
+
+.page-8 {
+
+    background-color: white;
+    height: 625px;
+    width: 550px;
+    border-radius: 30px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.tr-4 h1 {
+
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 50px;
+    color: black;
+}
+
+.tr-4 i {
+    margin-left: 80px;
+}
+
+.tr-0 {
+
+    margin-left: 14px;
+}
+
+.tr-3 p {
+
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.tr-3 p span {
+
+    color: rgb(0, 147, 205);
+}
+
+.tr-4 h1:hover {
+    color: rgb(255, 187, 0);
+
+
+}
+
+
+.tr-5 h2 {
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 70px;
+    color: black;
+}
+
+.tr-5 p {
+    margin-left: 80px;
+    margin-top: 20px;
+
+
+}
+
+.tr-5 i {
+
+    margin-left: 135px;
+}
+
+.tr-5 h2:hover {
+    color: rgb(255, 187, 0);
+
+
+}
+
+.tr-6 h2 {
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 70px;
+    color: black;
+}
+
+.tr-6 p {
+    margin-left: 80px;
+    margin-top: 20px;
+
+
+}
+
+.tr-6 i {
+
+    margin-left: 200px;
+}
+
+.tr-6 h2:hover {
+
+    color: rgb(255, 187, 0);
+
+
+}
+
+.tr-7 h2 {
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 70px;
+    color: black;
+}
+
+.tr-7 p {
+    margin-left: 80px;
+    margin-top: 20px;
+
+
+}
+
+.tr-7 i {
+
+    margin-left: 140px;
+}
+
+.tr-7 h2:hover {
+    color: rgb(255, 187, 0);
+
+
+}
+
+.card-4 {
+
+    background: url(img/meetings-bg.jpg) center/ cover fixed;
+    height: 115vh;
+    width: 100%;
+
+}
+
+.flex-1 h1 {
+
+    margin-top: 60px;
+    margin-left: 60px;
+    font-family: sans-serif;
+    font-size: 33px;
+    font-weight: 800;
+    margin-top: 130px;
+    color: white;
+
+}
+
+.child-1 {
+
+    background-color: white;
+    height: 350px;
+    width: 300px;
+    margin-top: 40px;
+    margin-left: 40px;
+
+}
+
+.flex-1 p {
+
+    border: 1px dotted white;
+    width: 1300px;
+    margin-left: 100px;
+}
+
+.child-1 h3 {
+
+    text-align: center;
+    margin-top: 20px;
+    font-family: sans-serif;
+}
+
+.flex-2 {
+
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+}
+
+.arrow-1 {
+
+    margin-top: 170px;
+}
+
+.arrow-2 {
+
+    margin-top: 170px;
+    margin-left: 30px;
+}
+
+.flex-3 {
+
+    margin-top: 30px;
+    margin-left: 15px;
+}
+
+.flex-3 span {
+
+    color: red;
+    margin-left: 90px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.flex-4 {
+
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.card-5 {
+
+    background: url(img/facts-bg.jpg) center/cover fixed;
+    height: 110vh;
+    width: 100%;
+
+}
+
+
+.card-5 h1 {
+
+    color: white;
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 800;
+    margin-top: 130px;
+    margin-left: 80px;
+
+}
+
+.flex-5 {
+
+    background-color: rgba(128, 128, 128, 0.327);
+    height: 170px;
+    width: 350px;
+    margin-top: 8px;
+    margin-left: 80px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.flex-5 h1 {
+
+    margin-left: 0px;
+    color: rgb(255, 140, 0);
+    font-family: sans-serif;
+    margin-top: 5px;
+
+
+}
+
+.flex-5 p {
+
+    font-size: 25px;
+    font-family: sans-serif;
+    color: white;
+    margin-top: 30px;
+    font-weight: 600;
+}
+
+
+.flex-6 {
+
+    background-color: rgba(128, 128, 128, 0.327);
+    height: 170px;
+    width: 350px;
+    margin-top: 30px;
+    margin-left: 20px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.flex-6 h1 {
+
+    margin-left: 0px;
+    color: rgb(255, 140, 0);
+    font-family: sans-serif;
+    margin-top: 5px;
+
+
+}
+
+.flex-6 p {
+
+    font-size: 25px;
+    font-family: sans-serif;
+    color: white;
+    margin-top: 30px;
+    font-weight: 600;
+}
+
+.flex-7 {
+
+    background-color: rgba(128, 128, 128, 0.327);
+    height: 170px;
+    width: 350px;
+    margin-top: 30px;
+    margin-left: 20px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.flex-7 h1 {
+
+    margin-left: 0px;
+    color: rgb(255, 140, 0);
+    font-family: sans-serif;
+    margin-top: 5px;
+
+
+}
+
+.flex-7 p {
+
+    font-size: 25px;
+    font-family: sans-serif;
+    color: white;
+    font-weight: 600;
+    margin-top: 30px;
+}
+
+.flex-8 {
+
+    background-color: rgba(128, 128, 128, 0.327);
+    height: 170px;
+    width: 350px;
+    margin-top: 0px;
+    margin-left: 80px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.flex-8 h1 {
+
+    margin-left: 0px;
+    color: rgb(255, 140, 0);
+    font-family: sans-serif;
+    margin-top: 5px;
+
+
+}
+
+.flex-8 p {
+
+    font-size: 25px;
+    font-family: sans-serif;
+    color: white;
+    font-weight: 600;
+    margin-top: 30px;
+}
+
+.read-0 {
+
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.flex-9 img {
+
+    margin-left: 80px;
+    margin-top: -100px;
+    border-radius: 20px;
+}
+
+
+.flex-10 img {
+
+    position: relative;
+    bottom: 240px;
+    left: 240px;
+
+
+}
+
+.card-6 {
+
+    background: url(img/meetings-bg.jpg);
+    height: 150vh;
+    width: 100%;
+}
+
+.flex-12 {
+
+    background-color: white;
+    width: 880px;
+    height: 500px;
+    margin-top: 120px;
+    margin-left: 150px;
+    border-radius: 30px;
+}
+
+.flex-12 h1 {
+
+    margin-top: 30px;
+    margin-left: 30px;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+.flex-13 input {
+
+    margin-top: 50px;
+    margin-left: 40px;
+    height: 35px;
+    width: 230px;
+    border-radius: 20px;
+    background-color: rgba(128, 128, 128, 0.226);
+    border: none;
+    outline: none;
+}
+
+.flex-14 textarea {
+
+    margin-top: 40px;
+    margin-left: 50px;
+    background-color: rgba(128, 128, 128, 0.226);
+    font-family: sans-serif;
+    font-size: 12px;
+    border: none;
+    outline: none;
+
+
+}
+
+.flex-13 button {
+
+    margin-top: 30px;
+    margin-left: 50px;
+    height: 40px;
+    width: 210px;
+    background-color: rgb(194, 31, 31);
+    border-radius: 20px;
+    color: white;
+    border: none;
+    font-family: sans-serif;
+    font-size: 13px;
+}
+
+.flex-11 {
+
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.flex-15 {
+
+    background-color: rgb(175, 40, 40);
+    height: 540px;
+    width: 320px;
+    margin-top: 90px;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+
+.pra-1 h1 {
+
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-left: 60px;
+    margin-top: 60px;
+}
+
+.pra-1 h2 {
+
+    margin-top: 20px;
+    color: white;
+    font-family: sans-serif;
+    margin-left: 60px;
+    font-size: 20px;
+}
+
+.pra-2 h5 {
+
+    margin-top: 40px;
+    margin-left: 60px;
+    color: white;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.pra-2 h2 {
+
+    margin-left: 60px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.pra-3 h5 {
+
+    margin-top: 40px;
+    margin-left: 60px;
+    color: white;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.pra-3 p {
+
+
+    margin-left: 60px;
+    margin-top: 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+.pra-4 h3 {
+
+    margin-top: 40px;
+    margin-left: 60px;
+    color: white;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.pra-4 a {
+
+    margin-left: 60px;
+    margin-top: 60px;
+    color: white;
+    font-size: 22px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.flex-16 p {
+
+    text-align: center;
+    color: white;
+}
+
+.flex-16 p span {
+
+    color: rgb(255, 174, 0);
+}
+
+
+
+@media screen and (max-width: 720px) {
+
+    .card-6 {
+
+        background: url(img/meetings-bg.jpg);
+        height: 260vh;
+        width: 135vh;
+
+    }
+
+
+    .flex-12 {
+
+        background-color: white;
+        width: 580px;
+        height: 600px;
+        margin-top: 20px;
+        margin-left: 120px;
+        border-radius: 30px;
+
+
+    }
+
+
+    .flex-12 h1 {
+
+        margin-top: 30px;
+        margin-left: 30px;
+        font-family: sans-serif;
+        font-size: 25px;
+    }
+
+    .flex-13 input {
+
+        margin-top: 50px;
+        margin-left: 30px;
+        height: 35px;
+        width: 500px;
+        border-radius: 20px;
+        background-color: rgba(129, 125, 125, 0.103);
+        border: none;
+        outline: none;
+    }
+
+    .flex-14 textarea {
+
+        margin-top: 40px;
+        margin-left: 30px;
+        border-radius: 10px;
+        height: 100px;
+        width: 500px;
+        background-color: rgba(128, 128, 128, 0.226);
+        font-family: sans-serif;
+        font-size: 12px;
+        border: none;
+        outline: none;
+
+
+    }
+
+    .flex-13 button {
+
+        margin-top: 30px;
+        margin-left: 50px;
+        height: 40px;
+        width: 210px;
+        background-color: rgb(194, 31, 31);
+        border-radius: 20px;
+        color: white;
+        border: none;
+        font-family: sans-serif;
+        font-size: 13px;
+    }
+
+    .flex-11 {
+
+        display: grid;
+        grid-template-columns: auto;
+    }
+
+    .flex-15 {
+
+        background-color: rgb(175, 40, 40);
+        height: 540px;
+        width: 660px;
+        margin-top: 90px;
+        margin-left: 80px;
+        border-radius: 20px;
+    }
+
+    .flex-16 p {
+
+        text-align: center;
+        margin-left: -70px;
+        color: white;
+    }
+
+    .flex-16 p span {
+
+        color: rgb(255, 174, 0);
+    }
+
+
+    .card-5 {
+
+        background: url(img/facts-bg.jpg) center/cover fixed;
+        height: 280vh;
+        width: 135vh;
+
+    }
+
+    .read-0 {
+
+        display:grid;
+        grid-template-columns: auto;
+    }
+
+    .flex-9 img {
+
+        margin-left: 120px;
+        margin-top: 80px;
+        border-radius: 20px;
+    }
+
+
+    .flex-10 img {
+
+        position: relative;
+        bottom: 340px;
+        left: 240px;
+
+
+    }
+
+    .flex-8 {
+
+        background-color: rgba(128, 128, 128, 0.327);
+        height: 170px;
+        width: 320px;
+        margin-top: 0px;
+        margin-left: 40px;
+        text-align: center;
+        border-radius: 30px;
+    }
+
+    .flex-5 {
+
+        background-color: rgba(128, 128, 128, 0.327);
+        height: 170px;
+        width: 320px;
+        margin-top: 8px;
+        margin-left: 40px;
+        text-align: center;
+        border-radius: 30px;
+    }
+
+    .flex-6 {
+
+        background-color: rgba(128, 128, 128, 0.327);
+        height: 170px;
+        width: 320px;
+        margin-top: 30px;
+        margin-left: -80px;
+        text-align: center;
+        border-radius: 30px;
+    }
+
+
+
+    .flex-7 {
+
+        background-color: rgba(128, 128, 128, 0.327);
+        height: 170px;
+        width: 320px;
+        margin-top: 30px;
+        margin-left: -80px;
+        text-align: center;
+        border-radius: 30px;
+    }
+
+
+
+    .card-4 {
+        background: url(img/meetings-bg.jpg) center/ cover fixed;
+        height: 160vh;
+        width: 135vh;
+
+
+    }
+
+    .flex-2 {
+
+        display: grid;
+        grid-template-columns: auto auto;
+        margin-left: 50px;
+
+    }
+
+    .flex-1 h1 {
+
+        margin-top: -10px;
+    }
+
+    .flex-1 hr {
+
+        width: 300px;
+    }
+
+    .flex-1 p {
+
+        border: 1px dotted rgb(255, 234, 234);
+        width: 720px;
+        margin-left: 60px;
+    }
+
+
+
+    .card-3 {
+
+        background: url(img/apply-bg.jpg) center/cover fixed;
+        height: 240vh;
+        width: 135vh;
+        display: grid;
+        grid-template-columns: auto;
+
+    }
+
+    .tr-1 {
+
+        background-color: rgba(128, 128, 128, 0.415);
+        margin-top: 80px;
+        margin-left: 100px;
+        height: 280px;
+        width: 600px;
+    }
+
+    .tr-2 {
+
+        margin-left: 100px;
+    }
+
+
+
+
+    .card-2 {
+        background: url(img/meetings-bg.jpg) center/cover fixed;
+        height: 444vh;
+        width: 135vh;
+
+    }
+
+    .main-7 {
+        display:grid;
+        grid-template-columns: auto;
+    }
+
+    .page-1 {
+
+        background-color: white;
+        height: 450px;
+        width: 500px;
+        margin-left: 158px;
+        border-radius: 20px;
+
+    }
+
+
+
+    .page-2 {
+
+        background-color: white;
+        height: 410px;
+        width: 500px;
+        margin-top: 60px;
+        margin-left: 150px;
+        border-radius: 30px;
+
+    }
+
+    .p-child p {
+
+        margin-left: -130px;
+        margin-top: 5px;
+    }
+
+    .page-3 {
+
+        display:grid;
+        grid-template-columns: auto;
+    }
+
+    .page-4 {
+
+        background-color: white;
+        height: 410px;
+        width: 500px;
+        margin-top: 50px;
+        margin-left: 150px;
+        border-radius: 30px;
+    }
+
+    .page-6 {
+
+        background-color: white;
+        height: 410px;
+        width: 500px;
+        margin-top: 50px;
+        margin-left: 150px;
+        border-radius: 30px;
+    }
+
+
+    .main-6 {
+        display: grid;
+        grid-template-columns: auto;
+        margin-top: -240px;
+        margin-left: 40px;
+
+    }
+
+    .one-5 img {
+        margin-left: 150px;
+        border-radius: 20px;
+        position: relative;
+
+    }
+
+    .one-6 h1 {
+
+        margin-left: 130px;
+    }
+
+
+    .one-5 {
+        margin-top: -80px;
+    }
+
+    .main-5 {
+
+        background: url(img/meetings-bg.jpg) center/cover fixed;
+        height: 300vh;
+        margin-top: 140px;
+        width: 135vh;
+
+    }
+
+    .main-3 {
+
+        position: absolute;
+        top: 50px;
+        left: 30px;
+    }
+
+    a {
+
+        color: black;
+        text-decoration: none;
+        font-size: 12px;
+        margin-right: 10px;
+        font-weight: 530;
+        font-family: sans-serif;
+
+
+    }
+
+    .main-1 {
+
+        background-color: rgba(255, 255, 255, 0.774);
+        width: 128.5vh;
+
+    }
+
+    .main-1 {
+        text-align: center;
+        padding: 20px;
+        display: grid;
+        grid-template-columns: auto auto;
+        justify-content: space-between;
+
+    }
+
+    .show:hover .hide {
+        background-color: rgba(108, 96, 39, 0.922);
+        color: rgb(255, 255, 255);
+    }
+
+    .hide-2{
+        display: none;
+    }
+
+    .show-2:hover .hide-2{
+
+        display: flex;
+        flex-direction: column;
+        background-color: white;
+        padding: 10px;
+        margin-left: 280px;
+        margin-top: -50px;
+        color: black;
+        position: absolute;
+        text-align: start;
+        transition: 0.9s;
+    }
+  
+
+    .main-2 {
+
+        font-size: 23px;
+        font-weight: 600;
+        margin-left: -10px;
+        color: rgb(0, 0, 0);
+
+    }
+
+    .read-1 p {
+
+        display: none;
+        font-family: sans-serif;
+        font-weight: 400;
+        padding: 7px;
+        margin-left: 50px;
+    }
+
+
+
+    .flex-4 {
+
+        display: grid;
+        grid-template-columns: auto ;
+    }
+
+    .flex-5 {
+
+        margin-left: 180px;
+        margin-top: 40px;
+        width: 500px;
+    }
+
+    .flex-6 {
+
+        margin-left: 180px;
+        margin-top: 40px;
+        width: 500px;
+
+    }
+
+    .flex-7 {
+
+        margin-left: 180px;
+        margin-top: 40px;
+        width: 500px;
+    }
+
+    .flex-8 {
+
+        margin-left: 180px;
+        margin-top: 40px;
+        width: 500px;
+    }
+
+    .one-7 {
+
+        margin-left: -50px;
+        margin-top: 10px;
+    }
+
+    .one-7 p {
+
+        width: 800px;
+        margin-left: 60px;
+    }
+
+
+    .p-1 video {
+
+        width: 135vh;
+
+    }
+
+    .show {
+        display: block;
+        margin-left: -70px;
+
+    }
+
+    .navbar {
+        display: none;
+    }
+
+    .navbar {
+        display: none;
+    }
+
+
+    .show:hover .hide {
+        display: block;
+        background-color:rgba(255, 208, 0, 0.922);
+        position: absolute;
+        z-index: 1;
+        margin-left: -490px;
+        width: 450px;
+        margin-top: 28px;
+        padding: 30px;
+        transition: 1s;
+    }
+
+    .one-6 h1 {
+        position: relative;
+        top: 460px;
+        left: -30px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-family: sans-serif;
+        font-weight: 600;
+        font-size: 25px;
+    }
+
+    .one-5 p {
+
+        margin-left: -40px;
+    }
+
+    .one-5 h1 {
+
+        margin-left: 20px;
+    }
+
+    .icon-1 {
+
+        display: none;
+    }
+
+    .icon-2 {
+
+        display: none;
+    }
+
+
+
+    .arrow-1 {
+
+        display: none;
+    }
+
+    .arrow-2 {
+
+        display: none;
+    }
+
+    .flex-17 {
+
+        display: grid;
+        grid-template-columns: auto;
+    }
+
+
+
+}
