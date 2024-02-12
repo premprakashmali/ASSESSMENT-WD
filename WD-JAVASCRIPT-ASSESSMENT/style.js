@@ -18,8 +18,5 @@ function myfunction() {
         time.style.display = "block";
         date.style.display = "block";
     }
-    else{
-
-       window.alert("form submited")
-    }
+  
 }
